@@ -1,4 +1,6 @@
-# Automation-2025-Navis-Plugin-Clash-Management-On-Notion-AI-DOC-Platform
+# Navis Plugin - Clash Management On Notion AI DOC Platform
+
+![image](https://github.com/HKIBIMTechnical/HKIBIM-BIMAutomationArena-2025-Plugin-Navis-Plugin-Clash-Management-On-Notion-AI-DOC-Platform/blob/main/image.png)
 
 ## Disclaimer
 
